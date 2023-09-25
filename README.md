@@ -5,10 +5,13 @@
 
 - 📫 How to reach me **namansnayal.0204@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1fdCDThpotNgkqntn8EZUDcxLfky6UIhw/view?usp=drive_link](https://drive.google.com/file/d/1fdCDThpotNgkqntn8EZUDcxLfky6UIhw/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fdCDThpotNgkqntn8EZUDcxLfky6UIhw/view?usp=drive_link](https://drive.google.com/file/d/1fdCDThpotNgkqntn8EZUDcxLfky6UIhw/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/naah_man.definitely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naah_man.definitely" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/namansn240002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="namansn240002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/namansn240002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namansn240002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

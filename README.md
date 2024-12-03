@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Singh Nayal</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 💬 Ask me about **Flask, Flutter and Machine Learning**
+- 💬 Ask me about **Flask, Flutter, Springboot**
 
 - 📫 How to reach me **namansnayal.0204@gmail.com**
 
